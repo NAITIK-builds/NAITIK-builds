@@ -14,8 +14,7 @@
 </p>
 
 <p align="center">
-  <img src="https://i.imgur.com/f3KtMW7.gif" alt="coding" width="300"/>
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300"/>
+  <img src="https://user-images.githubusercontent.com/74038190/216644497-1951db19-8f3d-4e44-ac08-8e9d7e0d94a7.gif" width="300"/>
 </p>
 
 ---
